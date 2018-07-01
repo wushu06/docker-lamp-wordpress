@@ -1,0 +1,5 @@
+Internal ID,Account Number,Name,Status,Phone,Email,Login Access,Price Level,Pricing Group,Consignment Stock Customer,Postal Code,Billing Address 1,Billing Address 2,Billing Address 3,Shipping Carrier,Primary Contact,Alt. Email,Special Notes
+40,246,HanifTBB,tier-three,07775 950365,hanif@thebiggerboat.co.uk,No,,,No,LL16 5LD,Twr Celyn,,,FedEx/USPS/More,,,
+41,AL795,EmmaTBB,tier-two,07775 950365,emma@thebiggerboat.co.uk,No,,,No,LL16 5LD,Twr Celyn,,,FedEx/USPS/More,,,
+42,AL795,LeeTBB,tier-one,07775 950365,lee@thebiggerboat.co.uk,No,,,No,LL16 5LD,Twr Celyn,,,FedEx/USPS/More,,,
+43,AL795,AndyTBB,tier-three,07775 950365,andy@thebiggerboat.co.uk,No,,,No,LL16 5LD,Twr Celyn,,,FedEx/USPS/More,,,

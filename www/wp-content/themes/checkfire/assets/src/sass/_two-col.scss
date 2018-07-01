@@ -1,0 +1,52 @@
+&_two-col{
+  margin: $margin;
+  padding: $padding;
+  &_content {
+    padding-right: 40px;
+    @media (max-width: 991px ) {
+
+      margin-bottom: 50px;
+
+    }
+
+  }
+  &_image {
+    position: relative;
+
+    .home-image {
+      @media (min-width: 991px) {
+        position: absolute;
+        top:0;
+      }
+
+    }
+    img {
+
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+  }
+  .row {
+    position: relative;
+    h5 {
+      position: absolute;
+      top: 20%;
+      right: 0;
+      text-transform: uppercase;
+      font-size: 11px;
+      transform: rotate(90deg);
+      font-weight: 600;
+
+    }
+    .crosshairs {
+
+      position: absolute;
+      right: 0;
+      top: -18%;
+      @media (max-width: 991px) {
+        top:0;
+
+      }
+    }
+  }
+
+}

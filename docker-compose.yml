@@ -1,0 +1,23 @@
+web:
+  build: .
+  ports:
+    - "8006:80"
+  links:
+    - db
+  volumes:
+    - ./www:/var/www/html/
+db:
+  image: "mysql:5"
+  volumes:
+    - ./dump:/etc/mysql/conf.d
+  environment:
+    MYSQL_ROOT_PASSWORD: root
+    MYSQL_DATABASE: phpapp
+phpmyadmin:
+  image: phpmyadmin/phpmyadmin
+  links:
+      - db:db
+  ports:
+      - 8000:80
+  environment:
+      MYSQL_ROOT_PASSWORD: root

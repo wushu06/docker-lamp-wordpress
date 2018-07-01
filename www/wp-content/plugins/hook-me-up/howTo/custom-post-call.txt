@@ -1,0 +1,12 @@
+//
+1- in the construct 
+function __construct() {
+		//require_once plugin_dir_path( __FILE__ ) . 'shapeTheData.php';
+		add_action( 'init', array( $this, 'custom_post_type' ) );
+2- then we call this function inside the class
+function custom_post_type() {
+		register_post_type( 'book', array( 'public' => true, 'label' => 'Books' ) );
+	}
+
+3- when we create new thing in db we need to ask wp to refresh 
+    flush_rewrite_rules();    

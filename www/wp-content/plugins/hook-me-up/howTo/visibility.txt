@@ -1,0 +1,20 @@
+//
+1- public function 
+    can be access from anywhere
+
+2- protected function 
+    // can be access from the class itself or its extend 
+4- private function 
+    can be access only from the class itself not from extend 
+
+*- static 
+    you dont need to intialize the class
+
+    so in the normal class you need to initialzed like this then call the method which sits inside it
+    $init_hook_me_up = new hooke_me_up_init();
+	$init_hook_me_up->register(); 
+
+    but for static methods you just call the class and its method
+    hooke_me_up_init::register();
+
+    inside the class if calling a static function usually $this but with static use the name of the class            

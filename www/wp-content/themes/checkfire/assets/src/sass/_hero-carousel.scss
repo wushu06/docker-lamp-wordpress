@@ -1,0 +1,45 @@
+&_hero-carousel {
+  margin-top: -100px;
+  margin-bottom: 50px;
+  &_images {
+    width: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 65vh;
+    overflow: hidden;
+
+
+    &_slide {
+      img {
+        width: 100%;
+        height: auto;
+      }
+      &_title {
+        position: relative;
+        max-width: 950px;
+        margin: auto;
+        margin-top: 53vh;
+        padding-left: 15px;
+        @media (max-width: 991px){
+
+
+        }
+
+        h1 {
+
+          color: $white;
+
+
+          @media (max-width: 991px){
+
+          }
+          @media (max-height: 550px){
+
+          }
+        }
+      }
+    }
+  }
+}

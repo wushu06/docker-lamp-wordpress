@@ -1,0 +1,18 @@
+&_range {
+  margin: $margin;
+  padding: $padding;
+  &_content {
+    margin-bottom: 30px;
+    &_image {
+
+      &_data {
+        background: white;
+        text-align: center;
+        .small-image {
+          margin: auto;
+        }
+      }
+    }
+  }
+
+}

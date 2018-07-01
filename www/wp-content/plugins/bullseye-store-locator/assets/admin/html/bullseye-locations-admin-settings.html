@@ -1,0 +1,85 @@
+<div class="bullseye-container settings-ui">
+  <div class="row">
+    <div class="bullseye-col-12">
+      <h1>Bullseye for WordPress Account Settings</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="bullseye-col-6 messages">
+      <p class="font_information"><strong>CONGRATULATIONS! </strong>The Bullseye Locations plugin has been linked successfully.</p>
+      <p class="font_information">Linked Account: <strong class="js-account-email"></strong> <a href="#" id="userLogout">Logout</a></p>
+    </div>
+    <div class="bullseye-col-6 text_icons">
+      <p class="bullseye_icon font_information"><strong>Bullseye Admin</strong></p>
+      <div class="bullseye_icon dashboard_icon"><a href="#" target="_blank"><img src="#" /><p class="icon_desc">Dashboard</p></a></div>
+      <div class="bullseye_icon locations_icon"><a href="#" target="_blank"><img src="#" /><p class="icon_desc">Locations</p></a></div>
+      <div class="bullseye_icon reports_icon"><a href="#" target="_blank"><img src="#" /><p class="icon_desc">Reports</p></a></div>
+    </div><!--text_icons-->
+  </div><!-- end row -->
+
+  <div class="row">
+    <div class="bullseye-col-12 ">
+      <div class="error-message"></div>
+      <div class="success-message"></div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="bullseye-col-12 ">
+      <div class="section js-interfaces-table-section">
+        <div class="section-title"><h2>Active Interfaces</h2></div>
+        <div class="section-content">
+          <div class="table" id="js-interfaces-table">
+            <script type="text/template" id="js-template-interface">
+              <div class="table-row" data-interface-id="<%= interfaceId %>" data-page-id="<%= pageId %>">
+                <div class="table-col"><strong><%= name %></strong></div>
+                <div class="table-col"><em>Created on <%= createdAt %></em></div>
+                <div class="table-col-buttons">
+                  <a href="<%= editLink %>" class="button button-primary" target="_blank">Edit</a>
+                  <a href="<%= viewLink %>" class="button button-primary" target="_blank">View</a>
+                  <button class="button button-primary js-publish-code">Publish Code</button>
+                  <button class="button button-default js-delete"><span class="dashicons dashicons-trash"></span></button>
+                </div>
+              </div>
+              <div class="table-row publish-code-tags" >
+                <div class="table-cell-colspan">
+                  <span class="js-close close">close X</span>
+                  <p>To embed this locator in your Wordpress page, copy and paste the shortcode below into the location where you want your locator to display.</p>
+                </div>
+                <div class="table-cell-colspan yellow-border"> <%= publishCode %> <div>
+              </div>
+            </script>
+          </div><!-- end table -->
+        </div>
+      </div>
+    </div><!-- end col -->
+  </div><!-- end row -->
+
+  <div class="row">
+    <div class="bullseye-col-6 ">
+      <div class="section">
+        <div class="section-title"><h2>Add A Store Locator Page</h2></div>
+        <div class="section-content bullseye-add-locator">
+          <p class="font_information">Create a new page within Wordpress and automatically embed the store locator code into the page.</p>
+          <p><input type="text" name="" class="form-control js-page-input" value="" placeholder="custom page name"/></p>
+          <p class="error-message">The custom page name can't be empty</p>
+          <p><button class="button button-primary js-add-page">Add Page</button></p>
+        </div>
+      </div>
+    </div>
+    <div class="bullseye-col-6">
+      <div class="section">
+        <div class="section-title"><h2 >Add A New Interface</h2></div>
+        <div class="section-content">
+          <p class="font_information">Create an embeddable interface to manually add to page.</p>
+          <p><button class="button button-primary js-add-interface">Add Interface</button></p>
+        </div>
+      </div>
+    </div>
+  </div><!-- end row -->
+  <div class="js-dialog-delete">
+    <p>Are you sure you want to <strong>delete</strong> this interface ? </p>
+    <p class="js-dialog-delete-confirm">Also you can use <em>"Delete with the page"</em>, to delete the Wordpress page too</p>
+  </div>
+</div><!-- end container -->

@@ -1,0 +1,7 @@
+//
+1- to instantiate a class we use a way to allow us not repeat our selfes (we gonna need register function)
+we need three functions:
+
+one with array of the class we want to instantiate 
+second loop through the array and call the instantiate function then call the register function inside those classes
+third instantiate by using new class(); and store it in a variable

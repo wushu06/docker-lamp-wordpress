@@ -1,0 +1,1243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: customer-specific-pricing-for-woocommerce\n"
+"POT-Creation-Date: 2016-12-29 22:13+0530\n"
+"PO-Revision-Date: 2016-12-29 22:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: customer-specific-pricing-for-woocommerce.php:194
+#, php-format
+msgid "%s %s is inactive.%s requires PHP version 5.3 or greater"
+msgstr ""
+"%s %s निष्क्रिय है। %s काम करने के लिए PHP संस्करण 5.3 या आगे के संस्करण की जरूरत है।"
+
+#: customer-specific-pricing-for-woocommerce.php:197
+#, php-format
+msgid " ( Current PHP version is %s %s %s)"
+msgstr " (मौजूदा PHP संस्करण %s %s %s है)"
+
+#: customer-specific-pricing-for-woocommerce.php:215
+#, php-format
+msgid ""
+"%s %s is inactive.%s Install and activate %sWooCommerce%s for %s to work."
+msgstr ""
+"%s %s निष्क्रिय है। %s %sWooCommerce%s को स्थापित और सक्रिय करें। %s तभी चलेगा।"
+
+#: includes/class-wdm-apply-usp-product-price.php:63
+#: includes/class-wdm-apply-usp-product-price.php:67
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:54
+#, fuzzy
+msgid "Product Total:"
+msgstr "उत्पाद का नाम"
+
+#: includes/class-wdm-apply-usp-product-price.php:111
+#: includes/class-wdm-apply-usp-product-price.php:116
+#: includes/class-wdm-apply-usp-product-price.php:367
+#, fuzzy
+msgid "Quantity Discount"
+msgstr "समतल या छूट"
+
+#: includes/class-wdm-apply-usp-product-price.php:173
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: includes/class-wdm-apply-usp-product-price.php:174
+#: includes/class-wdm-apply-usp-product-price.php:373
+#: includes/class-wdm-apply-usp-product-price.php:380
+msgid " and more :"
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:46
+#: includes/import-export/import/class-wdm-wusp-import.php:85
+msgid "CSP Import"
+msgstr "CSP आयात"
+
+#: includes/class-wdm-single-view-tabs.php:48
+msgid "Importing . . ."
+msgstr ""
+
+#: includes/class-wdm-single-view-tabs.php:49
+msgid "File Imported Successfully"
+msgstr "फ़ाइल सफलतापूर्वक आयात हुई।"
+
+#: includes/class-wdm-single-view-tabs.php:50
+#, fuzzy
+msgid "Total number of rows found "
+msgstr "पंक्तियों की कुल संख्या संसाधित "
+
+#: includes/class-wdm-single-view-tabs.php:51
+#, fuzzy
+msgid ". Total number of rows inserted "
+msgstr "डाले हुए पंक्तियों की कुल संख्या "
+
+#: includes/class-wdm-single-view-tabs.php:52
+#, fuzzy
+msgid ", total number of rows updated "
+msgstr "और अद्यतन पंक्तियों की कुल संख्या "
+
+#: includes/class-wdm-single-view-tabs.php:53
+#, fuzzy
+msgid ", and total number of rows skipped "
+msgstr "और अद्यतन पंक्तियों की कुल संख्या "
+
+#: includes/class-wdm-single-view-tabs.php:56
+#: includes/import-export/import/class-wdm-wusp-import.php:89
+#, fuzzy
+msgid "User Specific Sample"
+msgstr "उपयोगकर्ता विशिष्ट मूल्य निर्धारण"
+
+#: includes/class-wdm-single-view-tabs.php:57
+#, fuzzy
+msgid "Role Specific Sample"
+msgstr "भूमिका विशिष्ट मूल्य"
+
+#: includes/class-wdm-single-view-tabs.php:58
+#, fuzzy
+msgid "Group Specific Sample"
+msgstr "समूह विशिष्ट मूल्य"
+
+#: includes/class-wdm-single-view-tabs.php:87
+#: includes/import-export/import/class-wdm-wusp-import.php:113
+msgid "Import"
+msgstr "आयात"
+
+#: includes/class-wdm-single-view-tabs.php:88
+msgid "Export"
+msgstr "निर्यात"
+
+#: includes/class-wdm-single-view-tabs.php:89
+#: includes/single-view/class-wdm-single-view.php:58
+msgid "Pricing Manager"
+msgstr "मूल्य निर्धारण प्रबंधक"
+
+#: includes/class-wdm-wusp-add-data-in-db.php:67
+msgid "License"
+msgstr "लाइसेंस"
+
+#: includes/class-wdm-wusp-ajax.php:140 includes/class-wdm-wusp-ajax.php:162
+msgid "There is some error in option selection."
+msgstr "विकल्प के चयन में कुछ त्रुटि है।"
+
+#: includes/class-wdm-wusp-ajax.php:180 includes/class-wdm-wusp-ajax.php:348
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:73
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:195
+msgid ""
+"Activate the 'Groups' Plugin to enjoy the benefits of Group Specific Pricing."
+msgstr "समूह विशिष्ट मूल्य निर्धारण के लाभ का आनंद लेंने के लिए ग्रुप प्लगइन को सक्रिय करें।"
+
+#: includes/class-wdm-wusp-ajax.php:194
+msgid "Set Prices"
+msgstr "कीमत तय करें।"
+
+#: includes/class-wdm-wusp-ajax.php:197
+msgid "Edit this rule"
+msgstr "इस नियम को संपादित करें"
+
+#: includes/class-wdm-wusp-ajax.php:198
+msgid "Back"
+msgstr "पीछे"
+
+#: includes/class-wdm-wusp-ajax.php:223
+#: includes/single-view/settings/general.php:89
+msgid "customer"
+msgstr "ग्राहक"
+
+#: includes/class-wdm-wusp-ajax.php:226
+#: includes/single-view/settings/general.php:90
+msgid "role"
+msgstr "भूमिका"
+
+#: includes/class-wdm-wusp-ajax.php:229
+#: includes/single-view/settings/general.php:91
+msgid "group"
+msgstr "समूह"
+
+#: includes/class-wdm-wusp-ajax.php:251
+msgid "Selection List empty."
+msgstr "चयन सूची खाली है।"
+
+#: includes/class-wdm-wusp-ajax.php:292 includes/class-wdm-wusp-ajax.php:295
+msgid "Select"
+msgstr "चुने"
+
+#: includes/class-wdm-wusp-ajax.php:318
+msgid "Select Product"
+msgstr "उत्पाद चुनें"
+
+#: includes/class-wdm-wusp-ajax.php:337
+msgid "Please add Products."
+msgstr "कृपया उत्पादों जोड़ें।"
+
+#: includes/class-wdm-wusp-ajax.php:363
+msgid "Select Customer"
+msgstr "ग्राहक  चुनें"
+
+#: includes/class-wdm-wusp-ajax.php:373
+msgid "Select Role"
+msgstr "भूमिका  चुनें"
+
+#: includes/class-wdm-wusp-ajax.php:388
+msgid "Select Groups"
+msgstr "समूहों का चयन करें।"
+
+#: includes/class-wdm-wusp-ajax.php:488
+msgid "Some details are not found."
+msgstr "कुछ विवरण नहीं पाए जाते हैं।"
+
+#: includes/class-wdm-wusp-ajax.php:513 includes/class-wdm-wusp-ajax.php:1049
+#: includes/class-wdm-wusp-get-data.php:461
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:55
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:80
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:49
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:63
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:59
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:253
+#: templates/print_group_specific_pricing_tab_content.php:26
+#: templates/print_role_specific_pricing_tab_content.php:7
+#: templates/print_user_specific_pricing_tab_content.php:41
+msgid "Flat"
+msgstr "समतल"
+
+#: includes/class-wdm-wusp-ajax.php:567
+msgid "Roles"
+msgstr "भूमिकाएं"
+
+#: includes/class-wdm-wusp-ajax.php:568
+msgid "Groups"
+msgstr "समूह"
+
+#: includes/class-wdm-wusp-ajax.php:569
+msgid "Customers"
+msgstr "ग्राहक"
+
+#: includes/class-wdm-wusp-ajax.php:572
+msgid "Product ID"
+msgstr "उत्पाद आइ डि"
+
+#: includes/class-wdm-wusp-ajax.php:573
+#: includes/single-view/settings/search_setting.php:56
+msgid "Product Name"
+msgstr "उत्पाद का नाम"
+
+#: includes/class-wdm-wusp-ajax.php:575
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:84
+#: templates/print_user_specific_pricing_tab_content.php:81
+msgid "Regular Price"
+msgstr "नियमित रूप से मूल्य"
+
+#: includes/class-wdm-wusp-ajax.php:576
+msgid "Sale Price"
+msgstr "विक्रय कीमत"
+
+#: includes/class-wdm-wusp-ajax.php:577
+msgid "Flat or Discounts"
+msgstr "समतल या छूट"
+
+#: includes/class-wdm-wusp-ajax.php:578
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:58
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:101
+#: includes/import-export/import/class-wdm-wusp-import.php:302
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:55
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:102
+#: includes/single-view/settings/search_setting.php:57
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:129
+#: templates/print_user_specific_pricing_tab_content.php:102
+msgid "Min Qty"
+msgstr ""
+
+#: includes/class-wdm-wusp-ajax.php:579
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:61
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:104
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:58
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:105
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:132
+#: templates/print_user_specific_pricing_tab_content.php:105
+msgid "Value"
+msgstr "मूल्य"
+
+#: includes/class-wdm-wusp-ajax.php:590
+#: includes/single-view/settings/query_log_setting.php:65
+msgid "Rule Title"
+msgstr "नियम शीर्षक"
+
+#: includes/class-wdm-wusp-ajax.php:597
+msgid ""
+"Rule title will help identify the rules generated for Users/Roles/Groups."
+msgstr ""
+"नियम शीर्षक से उपयोगकर्ताओं / भूमिकाओं / समूह उत्पन्न नियमों की पहचान में मदद मिलेगी।"
+
+#: includes/class-wdm-wusp-ajax.php:609
+#: includes/single-view/settings/general.php:95
+msgid "Update Rule"
+msgstr "नियम अद्यतन"
+
+#: includes/class-wdm-wusp-ajax.php:609
+msgid "Save Rule"
+msgstr "नियम सहेजें"
+
+#: includes/class-wdm-wusp-ajax.php:821
+msgid "No details saved."
+msgstr "कोई विवरण सहेजें नहीं।"
+
+#: includes/class-wdm-wusp-ajax.php:881 includes/class-wdm-wusp-ajax.php:910
+#: includes/class-wdm-wusp-ajax.php:939 includes/class-wdm-wusp-ajax.php:1046
+#: includes/single-view/class-wdm-subrule-management.php:535
+msgid "Direct"
+msgstr "प्रत्यक्ष"
+
+#: includes/class-wdm-wusp-ajax.php:1083
+msgid "Rule Deleted."
+msgstr "नियम हटा दिया"
+
+#: includes/class-wdm-wusp-ajax.php:1085
+msgid "Please select some Log"
+msgstr "कुछ लॉग का चयन करें"
+
+#: includes/class-wdm-wusp-functions.php:131
+msgid "Rule could not be created"
+msgstr "नियम नहीं बनाया जा सका"
+
+#: includes/class-wdm-wusp-functions.php:199
+msgid "Processing Product ID "
+msgstr "उत्पाद ID प्रसंस्करण"
+
+#: includes/class-wdm-wusp-functions.php:253
+#, php-format
+msgid "Rule created successfully. Click %s here %s to add new rule."
+msgstr "नियम सफलतापूर्वक बनाया गया। नए नियम जोड़ने के लिए %sयहाँ%s पर क्लिक करें।"
+
+#: includes/class-wdm-wusp-functions.php:255
+#, php-format
+msgid "Rule updated successfully. Click %s here %s to add new rule."
+msgstr "नियम सफलतापूर्वक अद्यतन किया गया। नए नियम जोड़ने के लिए %sयहाँ%s पर क्लिक करें।"
+
+#: includes/class-wdm-wusp-functions.php:262
+msgid "Values may be improper."
+msgstr "जानकारी अनुचित हो सकता है।"
+
+#: includes/class-wdm-wusp-functions.php:270
+msgid "Initializing"
+msgstr "आरंभ कर रहा है"
+
+#: includes/class-wdm-wusp-install.php:247
+msgid "Please try to deactivate and then activate the plugin again."
+msgstr ""
+"प्लगइन सक्रिय करने के लिए प्लगइन निष्क्रिय करने की कोशिश करें, और उसके बाद प्लगइन फिर से "
+"सक्रिय करें।"
+
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:44
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:71
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:69
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:193
+msgid "Group Based Pricing"
+msgstr "समूह आधारित मूल्य निर्धारण"
+
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:52
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:95
+msgid "Group Name"
+msgstr "समूह का नाम"
+
+#: includes/group-specific-pricing/class-wdm-wusp-simple-products-gsp.php:55
+#: includes/group-specific-pricing/class-wdm-wusp-variable-products-gsp.php:98
+#: includes/import-export/import/class-wdm-wusp-import.php:304
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:52
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:99
+#: includes/single-view/settings/search_setting.php:59
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:126
+#: templates/print_user_specific_pricing_tab_content.php:99
+msgid "Discount Type"
+msgstr "छूट प्रकार"
+
+#: includes/import-export/class-wdm-wusp-import-export.php:41
+#: includes/import-export/class-wdm-wusp-import-export.php:69
+msgid "User Specific Pricing"
+msgstr "उपयोगकर्ता विशिष्ट मूल्य निर्धारण"
+
+#: includes/import-export/class-wdm-wusp-import-export.php:42
+#: includes/import-export/class-wdm-wusp-import-export.php:70
+#: includes/single-view/settings/general.php:35
+msgid "Role Specific Pricing"
+msgstr "भूमिका विशिष्ट मूल्य निर्धारण"
+
+#: includes/import-export/class-wdm-wusp-import-export.php:43
+#: includes/import-export/class-wdm-wusp-import-export.php:71
+#: includes/single-view/settings/general.php:36
+msgid "Group Specific Pricing"
+msgstr "समूह विशिष्ट मूल्य निर्धारण"
+
+#: includes/import-export/export/class-wdm-wusp-export.php:40
+msgid "Please Assign User Specific Prices to export the CSV file successfully."
+msgstr "CSV  फ़ाइल सफलता पुर्वक निर्यात करने के लिये कृपया उपयोगकर्ता विशिष्ट दाम तय करें।"
+
+#: includes/import-export/export/class-wdm-wusp-export.php:41
+msgid "Please Assign Role Specific Prices to export the CSV file successfully."
+msgstr "CSV  फ़ाइल सफलता पुर्वक निर्यात करने के लिये कृपया भूमिका विशिष्ट दाम तय करें।"
+
+#: includes/import-export/export/class-wdm-wusp-export.php:42
+msgid ""
+"Please Assign Group Specific Prices to export the CSV file successfully."
+msgstr "CSV  फ़ाइल सफलता पुर्वक निर्यात करने के लिये कृपया समूह विशिष्ट दाम तय करें।"
+
+#: includes/import-export/export/class-wdm-wusp-export.php:50
+msgid "CSP Export"
+msgstr "CSP निर्यात"
+
+#: includes/import-export/export/class-wdm-wusp-export.php:56
+msgid "Select Export Type :"
+msgstr "निर्यात प्रकार चुनें :"
+
+#: includes/import-export/export/class-wdm-wusp-export.php:68
+msgid "Download Export File"
+msgstr "निर्यात फ़ाइल डाउनलोड करें"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:32
+msgid ""
+"We have changed the CSV Import Format. Please download the sample csv below "
+"to know the new format and make appropriate changes in your CSV."
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:57
+msgid "Remove"
+msgstr "फ़ाइल निकाले"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:58
+msgid "Clear selected files"
+msgstr "चयनित फ़ाइलों को निकाले"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:59
+#, php-format
+msgid "Browse %s"
+msgstr "ब्राउज %s"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:60
+msgid "Upload"
+msgstr "अपलोड"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:61
+msgid "Upload selected files"
+msgstr "चयनित फ़ाइलों को अपलोड"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:62
+#, php-format
+msgid ""
+"File \"%s\" %s exceeds maximum allowed upload size of %s. Please retry your "
+"upload!"
+msgstr ""
+"\"%s\" फ़ाइल %s की अधिकतम अनुमति अपलोड क्षमता %s से अधिक है। अपने अपलोड पुन: प्रयास "
+"करें !"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:63
+#, php-format
+msgid "You must select at least %s to upload. Please retry your upload!"
+msgstr ""
+"अपलोड करने के लिए आपको कम से कम %s का चयन करना होगा । अपने अपलोड पुन: प्रयास करें !"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:64
+#, php-format
+msgid "File \"%s\" not found!"
+msgstr "फ़ाइल \"%s\" नहीं मिला !"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:65
+#, php-format
+msgid "Security restrictions prevent reading the file \"%s\"."
+msgstr "सुरक्षा प्रतिबंध फ़ाइल \"%s\" पढ़ने को रोक रहा है।"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:66
+#, php-format
+msgid "File \"%s\" is not readable."
+msgstr "फ़ाइल \"%s\" पढ़ने योग्य नहीं है।"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:67
+#, php-format
+msgid "Invalid type for file \"%s\". Only \"%s\" files are supported."
+msgstr "फ़ाइल \"%s\" के लिए अमान्य प्रकार। केवल \"%s\" फ़ाइलों का समर्थन कर रहे हैं ।"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:68
+#, php-format
+msgid "Invalid extension for file \"%s\". Only \"%s\" files are supported."
+msgstr "\"%s\" का दस्तावेज़ विस्तारण गलत है। केवल \"%s\" फ़ाइलों का समर्थन कर रहे हैं ।"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:69
+msgid "File Upload Error"
+msgstr "फाइल अपलोड त्रुटि"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:70
+#, php-format
+msgid "Drag & drop files here %s"
+msgstr "यहाँ पर फ़ाइलें ड्रैग एंड ड्रॉप करें %s"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:71
+#, php-format
+msgid "%s selected"
+msgstr "%s चुनी"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:89
+#, fuzzy, php-format
+msgid ""
+"If the customer specific price already exists, the existing values will be "
+"overwritten by the new values.<br/>Download <span class=\"import-type\">%s</"
+"span> import template"
+msgstr ""
+"ग्राहक , भूमिका या समूह विशेष कीमत पहले से ही मौजूद है, तो मौजूदा मूल्यों नए मूल्यों द्वारा "
+"ओवरराइट किया जाएगा"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:91
+msgid "here"
+msgstr ""
+
+#: includes/import-export/import/class-wdm-wusp-import.php:101
+msgid "Select Import Type :"
+msgstr "आयात प्रकार चुनें :"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:111
+msgid "Select File"
+msgstr "आयात फ़ाइल चुनें"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:276
+msgid "Please Select valid file"
+msgstr "कृपया वैध फ़ाइल को चुनें"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:286
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:287
+#: includes/single-view/settings/query_log_setting.php:54
+#: includes/single-view/settings/search_setting.php:17
+msgid "Role"
+msgstr "भूमिका"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:288
+#: includes/single-view/settings/query_log_setting.php:56
+#: includes/single-view/settings/search_setting.php:18
+msgid "Group"
+msgstr "समूह"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:300
+msgid "Product id"
+msgstr "उत्पाद आइ डि"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:303
+#: includes/single-view/settings/search_setting.php:58
+msgid "Active Price"
+msgstr "सक्रिय मूल्य"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:305
+msgid "Status"
+msgstr "स्थिति"
+
+#: includes/import-export/import/class-wdm-wusp-import.php:340
+msgid "Please Activate the Groups Plugin "
+msgstr "ग्रुप प्लगइन को सक्रिय करें"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:85
+#, php-format
+msgid "Flat Price or % or Min Qty Invalid"
+msgstr ""
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:86
+msgid "Product does not exist"
+msgstr "उत्पाद मौजूद नहीं है"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:87
+msgid "Record could not be inserted"
+msgstr "रिकार्ड नहीं डाला जा सकता है"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:88
+msgid "Record Inserted"
+msgstr "रिकार्ड डाला"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:89
+msgid "Record Updated"
+msgstr "रिकॉर्ड अद्यतन"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:90
+msgid "Record already exists"
+msgstr "रिकार्ड पहले से मौजूद है"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:91
+msgid "User does not exist"
+msgstr "प्रयोक्ता मौजूद नहीं है"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:92
+msgid "Record Skipped"
+msgstr "रिकार्ड छोड़ा"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:93
+msgid "Role does not exist"
+msgstr "भूमिका मौजूद नहीं है"
+
+#: includes/import-export/import/process-import/class-wdm-abstract-process-csv-batches.php:94
+msgid "Group does not exist"
+msgstr "समूह मौजूद नहीं है"
+
+#: includes/import-export/import/process-import/class-wdm-process-group-specific-csv-batches.php:124
+#: includes/import-export/import/process-import/class-wdm-process-role-specific-csv-batches.php:119
+#: includes/import-export/import/process-import/class-wdm-process-user-specific-csv-batches.php:126
+#, fuzzy, php-format
+msgid "% of regular price"
+msgstr "नियमित रूप से मूल्य"
+
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:42
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:78
+msgid "Role Based Pricing"
+msgstr "भूमिका आधारित मूल्य निर्धारण"
+
+#: includes/role-specific-pricing/class-wdm-wusp-simple-products-rsp.php:49
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:96
+msgid "User Role"
+msgstr "उपयोगकर्ता भूमिका"
+
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:43
+msgid "It seems regular price is not set for variation id(s) : "
+msgstr ""
+
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:44
+msgid ". Please set regular price for specified variation(s)"
+msgstr ""
+
+#: includes/role-specific-pricing/class-wdm-wusp-variable-products-rsp.php:45
+#, fuzzy
+msgid ""
+"It seems that price/quantity mapped to users, roles or groups are not valid. "
+"Please verify it again for variation id : "
+msgstr ""
+"ऐसा लगता है कि कुछ ग्राहक, भूमिकाओं या समूहों के लिए लगाई हुई कीमतें मान्य नहीं हैं। इसकी "
+"फिर से पुष्टि करें।"
+
+#: includes/single-view/class-wdm-rule-management.php:73
+msgid "Could not insert rule in the database"
+msgstr "डेटाबेस में नियम सम्मिलित नहीं किया जा सका"
+
+#: includes/single-view/class-wdm-rule-management.php:107
+msgid ""
+"Could not update rule in the database. Please check if correct data is added "
+"in the form."
+msgstr "डेटाबेस में नियम का अद्यतन नहीं कर सका। कृपया जाँच करें यदि डेटा सही भरा गया है।"
+
+#: includes/single-view/class-wdm-single-view.php:48
+msgid "Set Rules"
+msgstr "नियम बनाए"
+
+#: includes/single-view/class-wdm-single-view.php:49
+msgid "Search By"
+msgstr "खोज"
+
+#: includes/single-view/class-wdm-single-view.php:50
+#: includes/single-view/settings/query_log_setting.php:101
+msgid "Rule Log"
+msgstr "नियम लॉग"
+
+#: includes/single-view/class-wdm-subrule-management.php:53
+#: includes/single-view/class-wdm-subrule-management.php:119
+#, php-format
+msgid "Price is not valid for Product Id: %s"
+msgstr "%s मूल्य उत्पाद ID के लिए मान्य नहीं है।"
+
+#: includes/single-view/class-wdm-subrule-management.php:95
+msgid ""
+"Could not add subrule in the database. Please check if correct data is added "
+"in the form."
+msgstr "डेटाबेस में उप नियम जोड़ा नहीं जा सका । कृपया जाँच करें यदि डेटा सही भरा गया है।"
+
+#: includes/single-view/class-wdm-subrule-management.php:144
+msgid ""
+"Could not update subrule in the database. Please check if correct data is "
+"added in the form."
+msgstr "डेटाबेस में उप नियम जोड़ा नहीं जा सका । कृपया जाँच करें यदि सही डेटा भरा गया है।"
+
+#: includes/single-view/class-wdm-subrule-management.php:315
+msgid "Could not deactivate pre-existing subrules"
+msgstr "पूर्व मौजूदा उप नियमों को निष्क्रिय नहीं कर सका"
+
+#: includes/single-view/class-wdm-subrule-management.php:331
+msgid "There was an error while deactivating subrules."
+msgstr "उप नियम निष्क्रिय करते हुए कुछ त्रुटि थी।"
+
+#: includes/single-view/settings/general.php:34
+#: includes/user-specific-pricing/class-wdm-wusp-simple-products-usp.php:71
+msgid "Customer Specific Pricing"
+msgstr "ग्राहक विशिष्ट मूल्य निर्धारण"
+
+#: includes/single-view/settings/general.php:39
+msgid "Set rules for multiple products for specific customer, role  or group."
+msgstr "विशिष्ट ग्राहक, भूमिका या समूह के लिए अनेक उत्पादों के लिए नियम निर्धारित करें।"
+
+#: includes/single-view/settings/general.php:43
+msgid "Select Option"
+msgstr "विकल्प चुनें"
+
+#: includes/single-view/settings/general.php:47
+#: includes/single-view/settings/search_setting.php:30
+msgid "Select any value"
+msgstr "कोई विकल्प चुनें"
+
+#: includes/single-view/settings/general.php:71
+msgid " selection empty."
+msgstr " चयन सूची खाली है।"
+
+#: includes/single-view/settings/general.php:72
+msgid "product selection empty."
+msgstr "उत्पाद सूची खाली है।"
+
+#: includes/single-view/settings/general.php:73
+msgid "Hide / Show Columns"
+msgstr "कॉलम मिटायें / दिखाए"
+
+#: includes/single-view/settings/general.php:74
+msgid "Invalid Quantity Value"
+msgstr ""
+
+#: includes/single-view/settings/general.php:75
+msgid "Please fill Rule Title."
+msgstr "कृपया नियम शीर्षक भरें।"
+
+#: includes/single-view/settings/general.php:76
+msgid "Please fill some values, all fields are empty."
+msgstr "कृपया कुछ मूल्य भरें, सभी क्षेत्रों खाली हैं।"
+
+#: includes/single-view/settings/general.php:77
+msgid "All values should be numeric."
+msgstr "सभी मूल्यों संख्यात्मक होना चाहिए।"
+
+#: includes/single-view/settings/general.php:78
+#, php-format
+msgid "Max val for discount type % should be less than 100"
+msgstr ""
+
+#: includes/single-view/settings/general.php:79
+msgid "Values should not be negative."
+msgstr "मूल्यों नकारात्मक नहीं होना चाहिए।"
+
+#: includes/single-view/settings/general.php:80
+msgid ""
+"There are some errors, do you still want to proceed? This will override all "
+"other values."
+msgstr ""
+"कुछ त्रुटियाँ हैं , क्या आप अभी भी आगे बढ़ना चाहते हैं ? यह अन्य सभी मूल्यों को पार कर जाएगी "
+"।"
+
+#: includes/single-view/settings/general.php:81
+msgid ""
+"Some fields are empty, do you still want to proceed? Empty fields will be "
+"ignored."
+msgstr ""
+"कुछ फ़ील्ड खाली है, क्या आप अभी भी आगे बढ़ना चाहते हैं? खाली फील्ड को नजरअंदाज कर दिया "
+"जाएगा।"
+
+#: includes/single-view/settings/general.php:82
+msgid ""
+"Some fields have invalid values, do you still want to proceed? Empty fields "
+"will be ignored."
+msgstr ""
+"कुछ फ़ील्ड अवैध है, क्या आप अभी भी आगे बढ़ना चाहते हैं? खाली फील्ड को नजरअंदाज कर दिया "
+"जाएगा।"
+
+#: includes/single-view/settings/general.php:83
+msgid "This will override all values. Do you still want to proceed?"
+msgstr "सभी मूल्यों का परिवर्तन होगा, क्या आप अभी भी आगे बढ़ना चाहते हैं?"
+
+#: includes/single-view/settings/general.php:85
+msgid "Loading.."
+msgstr "लोड हो रहा है.."
+
+#: includes/single-view/settings/general.php:86
+msgid "Completed"
+msgstr "पूरा हुआ।"
+
+#: includes/single-view/settings/general.php:92
+msgid " or products selection"
+msgstr "या उत्पाद चयन"
+
+#: includes/single-view/settings/general.php:93
+msgid "Change "
+msgstr "बदले "
+
+#: includes/single-view/settings/general.php:96
+msgid "Show all"
+msgstr "सब दिखाओ"
+
+#: includes/single-view/settings/general.php:97
+msgid "Showing all {0}"
+msgstr "सभी {0} दिखा"
+
+#: includes/single-view/settings/general.php:98
+msgid "Empty list"
+msgstr "खाली सूची"
+
+#: includes/single-view/settings/general.php:99
+msgid "filter"
+msgstr "छाने"
+
+#: includes/single-view/settings/general.php:100
+msgid "filtered"
+msgstr "छाना हुआ"
+
+#: includes/single-view/settings/general.php:101
+msgid "Move selected"
+msgstr "चुने हुए सूची में डालें "
+
+#: includes/single-view/settings/general.php:102
+msgid "Move all"
+msgstr "सभी चुने हुए सूची में डालें"
+
+#: includes/single-view/settings/general.php:103
+msgid "Remove all"
+msgstr "सभी निकाले"
+
+#: includes/single-view/settings/general.php:104
+msgid "Remove selected"
+msgstr "चुने हुए सूची से निकाले"
+
+#: includes/single-view/settings/general.php:105
+#: includes/single-view/settings/query_log_setting.php:80
+#: includes/single-view/settings/search_setting.php:67
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ नतीजे देखें"
+
+#: includes/single-view/settings/general.php:106
+#: includes/single-view/settings/query_log_setting.php:81
+#: includes/single-view/settings/search_setting.php:68
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_TOTAL_ मे से _START_  से _END_ तक नतीजे दिखाये है"
+
+#: includes/single-view/settings/general.php:107
+#: includes/single-view/settings/query_log_setting.php:82
+#: includes/single-view/settings/search_setting.php:69
+msgid "No data available in table"
+msgstr "कोई रेकॉर्ड उपलब्ध नही है"
+
+#: includes/single-view/settings/general.php:108
+#: includes/single-view/settings/query_log_setting.php:83
+#: includes/single-view/settings/search_setting.php:70
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 मे से 0  से 0 तक नतीजे दिखाये है"
+
+#: includes/single-view/settings/general.php:109
+#: includes/single-view/settings/query_log_setting.php:84
+#: includes/single-view/settings/search_setting.php:71
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(कुल _MAX_ रेकॉर्डस मे से छाना हुआ)"
+
+#: includes/single-view/settings/general.php:110
+#: includes/single-view/settings/query_log_setting.php:85
+#: includes/single-view/settings/search_setting.php:72
+msgid "No matching records found"
+msgstr "कोई मिलता हुआ रेकॉर्ड उपलब्ध नही है"
+
+#: includes/single-view/settings/general.php:111
+#: includes/single-view/settings/query_log_setting.php:86
+#: includes/single-view/settings/search_setting.php:73
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+#: includes/single-view/settings/general.php:112
+#: includes/single-view/settings/query_log_setting.php:87
+#: includes/single-view/settings/search_setting.php:74
+msgid "Processing..."
+msgstr "प्रसंस्करण..."
+
+#: includes/single-view/settings/general.php:113
+#: includes/single-view/settings/query_log_setting.php:88
+#: includes/single-view/settings/search_setting.php:75
+msgid "Search:"
+msgstr "खोजें:"
+
+#: includes/single-view/settings/general.php:114
+#: includes/single-view/settings/query_log_setting.php:89
+#: includes/single-view/settings/search_setting.php:76
+msgid "First"
+msgstr "प्रथम"
+
+#: includes/single-view/settings/general.php:115
+#: includes/single-view/settings/query_log_setting.php:90
+#: includes/single-view/settings/search_setting.php:77
+msgid "Previous"
+msgstr "पिछला"
+
+#: includes/single-view/settings/general.php:116
+#: includes/single-view/settings/query_log_setting.php:91
+#: includes/single-view/settings/search_setting.php:78
+msgid "Next"
+msgstr "अगला"
+
+#: includes/single-view/settings/general.php:117
+#: includes/single-view/settings/query_log_setting.php:92
+#: includes/single-view/settings/search_setting.php:79
+msgid "Last"
+msgstr "अंतिम"
+
+#: includes/single-view/settings/general.php:239
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: includes/single-view/settings/general.php:240
+msgid "Clear"
+msgstr "खाली करें"
+
+#: includes/single-view/settings/query_log_setting.php:30
+msgid "List of rules you created in 'Set Rules' tab."
+msgstr " 'नियम बनाए' टैब में बनाए नियमों की सूची।"
+
+#: includes/single-view/settings/query_log_setting.php:34
+#: includes/single-view/settings/query_log_setting.php:69
+#: templates/lPage_display.php:147 templates/lPage_display.php:159
+msgid "Active"
+msgstr "सक्रिय"
+
+#: includes/single-view/settings/query_log_setting.php:37
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+#: includes/single-view/settings/query_log_setting.php:52
+#: includes/single-view/settings/search_setting.php:16
+msgid "Customer"
+msgstr "ग्राहक"
+
+#: includes/single-view/settings/query_log_setting.php:64
+#: includes/single-view/settings/search_setting.php:60
+msgid "Rule No."
+msgstr "नियम नंबर"
+
+#: includes/single-view/settings/query_log_setting.php:66
+msgid "Rule Type"
+msgstr "नियम प्रकार"
+
+#: includes/single-view/settings/query_log_setting.php:67
+msgid "Rule Creation Time"
+msgstr "नियम रचना समय"
+
+#: includes/single-view/settings/query_log_setting.php:68
+msgid "Rule Modification Time"
+msgstr "नियम संशोधन का समय"
+
+#: includes/single-view/settings/query_log_setting.php:77
+msgid "Please, select some log."
+msgstr "कृपया, कुछ लॉग चुनें।"
+
+#: includes/single-view/settings/query_log_setting.php:78
+msgid "Please, Save some Rule log. Rule log list empty."
+msgstr "कृपया, कुछ नियम लॉग सहेजें। नियम लॉग सूची खाली।"
+
+#: includes/single-view/settings/query_log_setting.php:79
+msgid "Are you sure, You want to delete this rule?"
+msgstr "क्या आप सुनिश्चित हैं, आप इस नियम को हटाना चाहते हैं?"
+
+#: includes/single-view/settings/query_log_setting.php:106
+msgid "Delete"
+msgstr "नियम नष्ट करें"
+
+#: includes/single-view/settings/query_log_setting.php:116
+msgid "No inactive rules found."
+msgstr "कोई निष्क्रिय नियम पाया नहीं गया।"
+
+#: includes/single-view/settings/query_log_setting.php:118
+msgid "No active rules found."
+msgstr "कोई सक्रिय नियम पाया नहीं गया।"
+
+#: includes/single-view/settings/search_setting.php:23
+msgid ""
+"Search the <strong>ACTIVE</strong> price being applied to specific customer, "
+"role or group."
+msgstr ""
+"विशिष्ट ग्राहक, भूमिका या समूह के लिए लागू किया जा रही <strong> सक्रिय </strong> "
+"कीमत  खोजें ।"
+
+#: includes/single-view/settings/search_setting.php:27
+msgid "Search price being applied for a"
+msgstr "लागू की गई कीमत खोजें"
+
+#: includes/single-view/settings/search_setting.php:61
+msgid "Source"
+msgstr "स्रोत"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:72
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:81
+#: templates/print_user_specific_pricing_tab_content.php:78
+msgid "Customer Specific Price"
+msgstr "ग्राहक विशिष्ट मूल्य"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:74
+msgid "Notes:"
+msgstr "टिप्पणियाँ:"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:76
+#: templates/print_user_specific_pricing_tab_content.php:73
+msgid ""
+"If a customer is added more than once, the customer-price combination first "
+"in the list will be saved, and other combinations will be removed."
+msgstr ""
+"एक ग्राहक एक बार से अधिक जोड़ा जाता है , तो सूची में ग्राहक मूल्य संयोजन पहले बचाया "
+"जाएगा , और अन्य संयोजन हटा दिया जाएगा।"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:77
+#: templates/print_user_specific_pricing_tab_content.php:74
+msgid ""
+"If the price field is left blank, then default product price will be shown."
+msgstr ""
+"मूल्य क्षेत्र को खाली छोड़ दिया जाता है, तो डिफ़ॉल्ट उत्पाद की कीमत दिखाया जाएगा।"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:78
+#: templates/print_user_specific_pricing_tab_content.php:75
+msgid ""
+"If a customer belongs to multiple groups (or roles), the least price set for "
+"the group (or role) will be applied"
+msgstr ""
+"एक ग्राहक के कई समूहों ( या भूमिकाओं ), समूह (या भूमिका) के लिए कम से कम कीमत सेट के "
+"अंतर्गत आता है , तो लागू किया जाएगा"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:79
+msgid "The priorities are as follows -"
+msgstr "प्राथमिकताएं इस प्रकार हैं -"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:82
+#: templates/print_user_specific_pricing_tab_content.php:79
+msgid "Role Specific Price"
+msgstr "भूमिका विशिष्ट मूल्य"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:83
+#: templates/print_user_specific_pricing_tab_content.php:80
+msgid "Group Specific Price"
+msgstr "समूह विशिष्ट मूल्य"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:92
+#: templates/print_user_specific_pricing_tab_content.php:88
+msgid "Customer Based Pricing"
+msgstr "ग्राहक आधारित मूल्य निर्धारण"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:123
+#: templates/print_user_specific_pricing_tab_content.php:96
+msgid "Customer Name"
+msgstr "ग्राहक का नाम"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:251
+#: templates/print_role_specific_pricing_tab_content.php:111
+#: templates/print_user_specific_pricing_tab_content.php:223
+msgid ""
+"It seems that some prices mapped to users, roles or groups are not valid. "
+"Please verify it again."
+msgstr ""
+"ऐसा लगता है कि कुछ ग्राहक, भूमिकाओं या समूहों के लिए लगाई हुई कीमतें मान्य नहीं हैं। इसकी "
+"फिर से पुष्टि करें।"
+
+#: includes/user-specific-pricing/class-wdm-wusp-variable-products-usp.php:252
+#: templates/print_user_specific_pricing_tab_content.php:224
+msgid "Add New Customer-Price Pair"
+msgstr "नया ग्राहक मूल्य की जोड़ी जोड़ें"
+
+#: templates/lPage_display.php:36
+msgid "No response from server. Please try again later."
+msgstr "सर्वर से कोई प्रतिक्रिया नहीं। बाद में पुन: प्रयास करें।"
+
+#: templates/lPage_display.php:44
+msgid "Please enter license key."
+msgstr "लाइसेंस कुंजी दर्ज करें।"
+
+#: templates/lPage_display.php:51
+msgid "Your license key is activated."
+msgstr "आपकी लाइसेंस कुंजी सक्रिय है।"
+
+#: templates/lPage_display.php:58
+msgid ""
+"Your license key has Expired. Please, Renew it. <br/>Your License Key is "
+"already activated at : "
+msgstr ""
+"आपकी लाइसेंस कुंजी समाप्त हो गया है । कृपया, यह नवीनीकृत । <br/> आपका लाइसेंस कुंजी पहले "
+"से ही सक्रिय होता है :"
+
+#: templates/lPage_display.php:65
+msgid "Your license key has Expired. Please, Renew it."
+msgstr "आपकी लाइसेंस कुंजी समाप्त हो गया है । कृपया, यह नवीनीकृत ।"
+
+#: templates/lPage_display.php:72
+msgid "Your license key is Disabled."
+msgstr "आपकी लाइसेंस कुंजी अक्षम है।"
+
+#: templates/lPage_display.php:79 templates/lPage_display.php:93
+msgid "Your License Key is already activated at : "
+msgstr "आपकी लाइसेंस कुंजी पहले से ही सक्रिय है :"
+
+#: templates/lPage_display.php:86
+msgid "Please enter valid license key."
+msgstr "वैध लाइसेंस कुंजी दर्ज करें।"
+
+#: templates/lPage_display.php:100
+msgid "Site inactive(Press Activate license to activate plugin)"
+msgstr "साइट निष्क्रिय (प्लगइन को सक्रिय करने के लिए लाइसेंस सक्रिय करे)"
+
+#: templates/lPage_display.php:107
+msgid "License Key is deactivated"
+msgstr "लाइसेंस कुंजी निष्क्रिय है"
+
+#: templates/lPage_display.php:115
+msgid " License Options"
+msgstr " लाइसेंस विकल्प"
+
+#: templates/lPage_display.php:122
+msgid "License Key"
+msgstr "लाइसेंस कुंजी"
+
+#: templates/lPage_display.php:143
+msgid "License Status"
+msgstr "लाइसेंस स्थिति"
+
+#: templates/lPage_display.php:151 templates/lPage_display.php:155
+#: templates/lPage_display.php:162 templates/lPage_display.php:167
+msgid "Not Active"
+msgstr "अक्रिय"
+
+#: templates/lPage_display.php:179 templates/lPage_display.php:192
+#: templates/lPage_display.php:211
+msgid "Activate License"
+msgstr "लाइसेंस को सक्रिय करें।"
+
+#: templates/lPage_display.php:185 templates/lPage_display.php:200
+msgid "Deactivate License"
+msgstr "लाइसेंस निष्क्रिय करें"
+
+#: templates/lPage_display.php:195 templates/lPage_display.php:203
+msgid "Renew License"
+msgstr "लाइसेंस नवीनीकृत करें।"
+
+#: templates/print_group_specific_pricing_tab_content.php:154
+#: templates/print_user_specific_pricing_tab_content.php:222
+msgid "Add New Pair"
+msgstr "नई जोड़ी जोड़े"
+
+#: templates/print_group_specific_pricing_tab_content.php:155
+msgid "Add New Group-Price Pair"
+msgstr "नई समूह - मूल्य जोड़ी जोड़ें"
+
+#: templates/print_role_specific_pricing_tab_content.php:109
+msgid "Add New Role-Price Pair"
+msgstr "नई भूमिका मूल्य जोड़ी जोड़ें"
+
+#: templates/print_role_specific_pricing_tab_content.php:110
+msgid ""
+"It seems regular price is not set for the product. Please set the regular "
+"price."
+msgstr ""
+
+#: templates/print_user_specific_pricing_tab_content.php:70
+msgid "Notes"
+msgstr "टिप्पणियाँ"
+
+#: templates/print_user_specific_pricing_tab_content.php:76
+msgid "The priorities are as follows"
+msgstr "प्राथमिकताएं इस प्रकार हैं"
+
+#: templates/print_user_specific_pricing_tab_content.php:116
+msgid "Remember to Publish/Update the product to save any changes made."
+msgstr "याद से उत्पाद में किए गए किसी भी परिवर्तनों को सहेजने के लिए प्रकाशित/अद्यतन करें।"
+
+#, fuzzy
+#~ msgid ""
+#~ "If the customer specific price already exists, the existing values will "
+#~ "be overwritten by the new values.<br/>Download a sample import template"
+#~ msgstr ""
+#~ "ग्राहक , भूमिका या समूह विशेष कीमत पहले से ही मौजूद है, तो मौजूदा मूल्यों नए मूल्यों "
+#~ "द्वारा ओवरराइट किया जाएगा"
+
+#, fuzzy
+#~ msgid "Invalid field values or price"
+#~ msgstr "अमान्य मूल्य"
+
+#~ msgid ""
+#~ "Total number of rows found %d. Total number of rows inserted %d, total "
+#~ "number of rows updated %d, and total number of rows skipped %d"
+#~ msgstr ""
+#~ "पंक्तियों की कुल संख्या संसाधित %d. डाले हुए पंक्तियों की कुल संख्या %d, अद्यतन पंक्तियों की "
+#~ "कुल संख्या %d, और छोडे हुए पंक्तियों की कुल संख्या %d."
+
+#~ msgid "Change role or products selection"
+#~ msgstr "भूमिका या उत्पादों को बदलें"
+
+#~ msgid "Change customer or products selection"
+#~ msgstr "ग्राहक या उत्पादों को बदलें"
+
+#~ msgid "Change group or products selection"
+#~ msgstr "समूह या उत्पादों को बदलें"
+
+#~ msgid ""
+#~ "Activate Groups Plugin to enjoy the benefit of Group Specific Pricing."
+#~ msgstr "समूह विशिष्ट मूल्य निर्धारण के लाभ का आनंद लेंने के लिए ग्रुप प्लगइन को सक्रिय करें।"
+
+#~ msgid "Price"
+#~ msgstr "मूल्य"
+
+#~ msgid "Price/Discount"
+#~ msgstr "मूल्य/छूट"
+
+#~ msgid "Price Type"
+#~ msgstr "मूल्य प्रकार"
+
+#~ msgid "Selection empty."
+#~ msgstr "सूची खाली है"
+
+#~ msgid "Product List empty."
+#~ msgstr "उत्पाद सूची खाली है।"
+
+#~ msgid "Hide Column"
+#~ msgstr "स्तंभ छुपाने"
+
+#~ msgid ""
+#~ "Total number of rows processed %d. Total number of rows inserted %d and "
+#~ "total number of rows updated %d"
+#~ msgstr ""
+#~ "पंक्तियों की कुल संख्या संसाधित %d. डाले हुए पंक्तियों की कुल संख्या %d और अद्यतन पंक्तियों "
+#~ "की कुल संख्या %d."
+
+#~ msgid "Record Not Updated"
+#~ msgstr "रिकार्ड अद्यतन नहीं हुआ"
+
+#~ msgid "Record Not Inserted"
+#~ msgstr "रिकार्ड नहीं डाला"
+
+#~ msgid "Group Not Exists"
+#~ msgstr "समूह नहीं मौजूद है"
+
+#~ msgid "Role does not exists"
+#~ msgstr "भूमिका मौजूद नहीं है"
+
+#~ msgid "Import/Export"
+#~ msgstr "आयात/निर्यात"
+
+#~ msgid "Please Assign"
+#~ msgstr "सौंपें"
+
+#~ msgid " Specific Prices to export the CSV file successfully."
+#~ msgstr "विशिष्ट मूल्य CSV फ़ाइल सफलतापूर्वक निर्यात करने के लिए ।"
+
+#~ msgid "Change"
+#~ msgstr "परिवर्तन करिये "
+
+#~ msgid "or products selection"
+#~ msgstr "या उत्पाद चयन"
+
+#~ msgid "A"
+#~ msgstr "B"
+
+#~ msgid "APURVA"
+#~ msgstr "MAD"
+
+#~ msgid "ABC"
+#~ msgstr "AKSHAY"
+
+#~ msgid "%s %s is inactive.%s  Require PHP version 5.3 or greater"
+#~ msgstr ""
+#~ "%s %s निष्क्रिय है। %s काम करने के लिए PHP संस्करण 5.3 या आगे के संस्करण की जरूरत है।"
+
+#~ msgid " for %s to work."
+#~ msgstr " %s काम करने के लिए"

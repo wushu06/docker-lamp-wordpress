@@ -1,0 +1,20 @@
+//
+1- to use namespace: 
+    composer init 
+
+    in composer.json 
+      "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+
+    then composer install / to edit composer dump-autoload
+
+2- start using namespace: class with same name as folder
+  namespace Inc;
+
+  now instead of using require_once and folder name inc we gave the folder name of Inc
+  to call class inside this folder 
+  Inc\Init::register_services(); meaning go to Inc which is inc folder then the class Init then the static 
+  function of register_serivces  
